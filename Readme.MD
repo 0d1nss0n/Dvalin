@@ -1,4 +1,4 @@
-# Dvalin - Web Crawler and Email Scraper
+# Dvalin - Web Crawler and Scraper
 
 Dvalin is a Python script designed for web crawling and scraping of information.
 It allows you to crawl websites, gather URLs present on web pages, and retrieve emails, phone numbers, and addresses. 
