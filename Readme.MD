@@ -4,7 +4,7 @@ Dvalin is a Python script designed for web crawling and scraping of information.
 It allows you to crawl websites, gather URLs present on web pages, and retrieve emails, phone numbers, and addresses. 
 
 
-![alt text](https://raw.githubusercontent.com/0d1nss0n/Dvalin/main/img/dvalin.png)
+![alt text](https://raw.githubusercontent.com/0d1nss0n/Dvalin/main/img/dvalin1.png)
 
 ## Features
 
