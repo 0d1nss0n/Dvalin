@@ -32,7 +32,7 @@ print("""
 ██   ██  ██  ██  ██   ██ ██      ██ ██  ██ ██ 
 ██████    ████   ██   ██ ███████ ██ ██   ████ 
                                               
-    -Web Crawler and Email Scraper                                         
+    -Web Crawler and Scraper                                         
     -Created by: 0D1NSS0N
 """)
 
