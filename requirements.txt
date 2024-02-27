@@ -1,3 +1,5 @@
 re
 requests
 urllib3
+lxml
+beautifulsoup4
